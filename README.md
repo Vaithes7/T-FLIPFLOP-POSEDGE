@@ -43,6 +43,8 @@ From the above characteristic table, we can directly write the next state equati
 6.Verify Output Behavior: Verify that the output behavior of the T flip-flop matches the expected behavior defined by its functional table.
 
 7.Check for Race Conditions: Ensure that there are no race conditions or undefined states in the design by analyzing the timing and sequence of input changes.
+
+
 **PROGRAM**
 Developed by:Vaitheswaran N
 RegisterNumber:24901212
